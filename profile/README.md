@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are IEEE-EMBS-Manipal
+
 <!--
 
 **Here are some ideas to get you started:**
